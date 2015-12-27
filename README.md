@@ -11,4 +11,7 @@ The Getting and Cleaning Data course assignment requires:
 3) use descriptive names to appropriate identify the activities in the data set;
 4) create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Codebook: The dataset description is available from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#.
+Description: The dataset description is available from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+
+CodeBook: The code book for these data is included within this repository or it can be loaded at:
+https://github.com/PrairyErth/run_analysis_r/blob/master/CodeBook.txt
