@@ -1,6 +1,8 @@
 #Getting and Cleaning Data Final Course Project
 #run_analysis.r
 #December 23, 2015
+#Note:  You must have the 'UCI HAR Dataset' loaded into your working directory to run the code below
+
 # set working directory and load packages
 setwd("~/data/UCI HAR Dataset")
 # if so desired:  source("~/data/UCI HAR Dataset/run_analysis.r")
