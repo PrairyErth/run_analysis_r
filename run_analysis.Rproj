@@ -3,7 +3,7 @@
 #December 23, 2015
 # set working directory and load packages
 setwd("~/data/UCI HAR Dataset")
-# source("~/data/UCI HAR Dataset/run_analysis.r")
+# if so desired:  source("~/data/UCI HAR Dataset/run_analysis.r")
 library(plyr)
 
 # Step 1a:  Merge the training sets
