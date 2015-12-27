@@ -13,5 +13,5 @@ The Getting and Cleaning Data course assignment requires:
 
 Description: The dataset description is available from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
-CodeBook: The code book for these data is included within this repository or it can be loaded at:
+CodeBook: The code book for these data is included within this repository or can be loaded from:
 https://github.com/PrairyErth/run_analysis_r/blob/master/CodeBook.txt
